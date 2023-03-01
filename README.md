@@ -1,4 +1,4 @@
-# Workshop on PBPK-PD/QSP modeling with the OSPSuite (PK-Sim®, MoBi®) in connection to PAGE
+# Workshop on PBPK-PD/QSP modeling with the OSPSuite (PK-Sim®, MoBi®) in connection to PAGE 2023
 Dear OSP users,
 In connection with Page 2023 in A Coruña, Spain, Pharmetheus will offer a pre-conference workshop for those of you who want to leverage your time there to advance your knowledge in PBPK-QSP; please find some information below.
 
