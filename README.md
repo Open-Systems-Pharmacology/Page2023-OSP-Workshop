@@ -4,7 +4,7 @@ In connection with Page 2023 in A Coruña, Spain, Pharmetheus will offer a pre-c
 
 ### PBPK-PD/QSP modeling with the OSPSuite (PK-Sim®, MoBi®)
 
-27-28th of June 2022, 2-day workshop. 
+27-28th of June 2023, 2-day workshop. 
 
 
 ### Workshop overview
